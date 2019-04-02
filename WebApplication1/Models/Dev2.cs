@@ -5,11 +5,8 @@ using System.Threading.Tasks;
 
 namespace WebApplication1.Models
 {
-
-    /// <summary>
-    /// Author: Bartosz Szydzik
-    /// </summary>
     public class Dev2
     {
+        public static string Autor = "Bartosz Szydzik";
     }
 }
